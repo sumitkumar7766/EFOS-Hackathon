@@ -1,0 +1,9 @@
+requests 
+numpy 
+opencv-python 
+pillow
+flask 
+sentinelhub 
+numpy 
+requests 
+pillow

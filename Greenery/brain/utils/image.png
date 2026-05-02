@@ -1,0 +1,1 @@
+{"error":{"status":401,"reason":"Unauthorized","message":"You are not authorized! Please provide a valid access token within the header [Authorization: Bearer <accessToken>] of your request.","code":"COMMON_UNAUTHORIZED"}}
